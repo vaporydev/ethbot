@@ -1,4 +1,4 @@
-# Ethereum Documentation Generator
+# Vapory Documentation Generator
 
 ## Available parsers
 
